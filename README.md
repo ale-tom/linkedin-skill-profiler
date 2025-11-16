@@ -76,7 +76,7 @@ The workflow is divided into two main parts:
      LINKEDIN_USERNAME=your_email_or_username
      LINKEDIN_PASSWORD=your_password
      ```
-   - Ensure two-factor authentication is disabled for this script.
+   - Ensure two-factor authentication is (**temporarily!**) disabled for this script.
 
 ## Usage
 
